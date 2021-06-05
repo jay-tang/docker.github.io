@@ -12,7 +12,7 @@ redirect_from:
 - /winkit/
 - /winkit/getting-started/
 
-title: Docker Desktop for Windows user manual
+title: Docker Desktop for Windows User Manual
 toc_min: 1
 toc_max: 2
 ---
